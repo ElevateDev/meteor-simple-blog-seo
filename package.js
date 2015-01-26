@@ -1,7 +1,7 @@
 Package.describe({
   name: 'elevatedevdesign:simple-blog-seo',
   summary: 'Package to add default SEO to Simple-Blog',
-  version: '0.0.1',
+  version: '0.0.2',
   git: 'https://github.com/ElevateDevelopmentAndDesign/meteor-simple-blog-seo'
 });
 
