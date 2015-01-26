@@ -16,6 +16,7 @@ ddp@1.0.14
 deps@1.0.6
 ejson@1.0.5
 elevatedevdesign:simple-blog@0.0.5
+elevatedevdesign:simple-blog-seo@0.0.1
 elevatedevdesign:template-subscriptions@0.0.1
 follower-livedata@1.0.3
 geojson-utils@1.0.2
@@ -35,6 +36,7 @@ json@1.0.2
 livedata@1.0.12
 localstorage@1.0.2
 logging@1.0.6
+manuelschoebel:ms-seo@0.1.0
 matb33:collection-hooks@0.7.9
 meteor@1.1.4
 minifiers@1.1.3

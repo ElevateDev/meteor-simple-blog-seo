@@ -9,9 +9,9 @@ Package.onUse(function(api) {
   api.versionsFrom('METEOR@1.0');
   
   api.use([
-    'elevatedevdesign:simple-blog',
-    "manuelschoebel:ms-seo",
-    "iron:router"
+    'elevatedevdesign:simple-blog@0.0.5',
+    "manuelschoebel:ms-seo@0.4.1",
+    "iron:router@1.0.0"
   ]);
  
   api.addFiles([
