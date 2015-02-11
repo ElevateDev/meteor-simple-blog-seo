@@ -11,7 +11,9 @@ Package.onUse(function(api) {
   api.use([
     'elevatedevdesign:simple-blog@0.0.5',
     "manuelschoebel:ms-seo@0.4.1",
-    "iron:router@1.0.0"
+    "iron:router@1.0.0",
+    "meteorhacks:fast-render@2.3.1",
+    "spiderable@1.0.6"
   ]);
  
   api.addFiles([
